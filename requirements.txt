@@ -7,3 +7,4 @@ matplotlib
 gensim
 scikit-learn
 joblib
+scipy
